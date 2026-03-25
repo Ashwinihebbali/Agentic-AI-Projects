@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![Langflow](https://img.shields.io/badge/Langflow-Ready-purple?logo=langflow&logoColor=white)](https://www.langflow.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com).
 
 A curated collection of **autonomous AI agents** built with **Python**, **Langflow**, and modern agentic frameworks. These projects demonstrate how LLMs can perceive, reason, and act—turning ideas into intelligent workflows.
 
