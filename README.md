@@ -8,7 +8,6 @@
 A curated collection of **autonomous AI agents** built with **Python**, **Langflow**, and modern agentic frameworks. These projects demonstrate how LLMs can perceive, reason, and act—turning ideas into intelligent workflows.
 
 ---
-
 ##  What is Agentic AI?
 
 Agentic AI refers to systems that go beyond simple chatbots—they can:
