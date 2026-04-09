@@ -12,7 +12,7 @@ A curated collection of **autonomous AI agents** built with **Python**, **Langfl
 
 Agentic AI refers to systems that go beyond simple chatbots—they can:
 
-- **Set and pursue goals** autonomously  
+- **Set and pursue goals** autonomously
 - **Use tools** (APIs, calculators, search engines)  
 - **Reason** step‑by‑step and adapt to new information  
 - **Collaborate** with other agents or humans  
