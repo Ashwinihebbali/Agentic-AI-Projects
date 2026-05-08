@@ -6,7 +6,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com).
 
 A curated collection of **autonomous AI agents** built with **Python**, **Langflow**, and modern agentic frameworks. These projects demonstrate how LLMs can perceive, reason, and act—turning ideas into intelligent workflows.
-
 ---
 ##  What is Agentic AI?
 
