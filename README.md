@@ -1,4 +1,4 @@
-# Agentic AI Projects ⚡
+# Agentic AI Projects⚡
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![Langflow](https://img.shields.io/badge/Langflow-Ready-purple?logo=langflow&logoColor=white)](https://www.langflow.org)
